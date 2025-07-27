@@ -399,6 +399,22 @@ Restart Claude and try it out with a simple prompt such as `Tell me the GUID of 
 `get-all-webhook-logs` - Get all webhook logs  
 `create-webhook` - Create a new webhook
 </details>
+
+<details>
+<summary>Template</summary>
+<br>
+
+`get-template-by-id` - Get a template by its ID
+`get-template-configuration` - Get template configuration settings
+`get-template-query-settings` - Get template query settings
+`get-template-items` - Get template items by their IDs
+`search-templates` - Search for templates by query parameters
+`get-template-tree-root` - Get root level templates in the template tree
+`create-template` - Create a new template
+`execute-template-query` - Execute a template query to find content
+`update-template` - Update an existing template
+`delete-template` - Delete a template by its ID
+</details>
 </details>
 
 ## Umbraco Workflow API Tools
